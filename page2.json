@@ -1,0 +1,289 @@
+{
+  "document_info": {
+    "title": "INFORMATION FOR CARRIERS",
+    "document_type": "Class 7 Consignor Declaration - Radioactive Material Transport",
+    "layout": "two_column",
+    "country": "Australia",
+    "regulatory_reference": "IAEA Regulations",
+    "source": "Australian Code for the Safe Transport of Radioactive Material"
+  },
+  "left_column": {
+    "section_1": {
+      "title": "HANDLING RULES",
+      "content": "Radioactive material (RAM) presented for transport is packaged in accordance with the IAEA Regulations which ensures that it is safe to handle under normal conditions. Nevertheless, to prevent unnecessary exposure to radiation there are certain basic rules that should be followed as the radiation exposure received will depend on how long and how close a person remains near packages containing RAM.",
+      "subtitle": "To minimise radiation exposure:",
+      "rules": [
+        "Contact time with the package should be kept short.",
+        "RAM packages should be handled without delay — keep it moving.",
+        "No-one should stand around, sit near or sit on a RAM package.",
+        "Time consuming tasks, such as paperwork, should not be carried out near a RAM package.",
+        "All personnel should be kept as far away as practicable from packages containing RAM.",
+        "RAM packages should be stored well away from offices, rest rooms and occupied work areas.",
+        "When transporting RAM packages any long distance, the vehicle used should allow the driver to maintain a distance of at least a metre or more from the packages.",
+        "RAM packages should be secured so that they will not move during transport — small, light packages should be stored in a basket while larger, heavy packages should be properly blocked and braced.",
+        "RAM packages must not be stored in the one location with transport indexes that add up to more than 50. (The transport index is written on the Yellow Category II or Category III label.)"
+      ]
+    },
+    "section_2": {
+      "title": "DANGEROUS GOODS CLASS LOADING RESTRICTIONS FOR ROAD AND RAIL",
+      "subtitle": "(UN Recommendations on the Transport of Dangerous Goods – Model Regulations Eighteenth revised edition)",
+      "type": "rectangular_box",
+      "restrictions": [
+        "The requirements of this clause are additional to those of the Australian Code for the Safe Transport of Radioactive Material in relation to the compatibility of radioactive material with other dangerous goods, food, undeveloped photographic film and personnel.",
+        "Radioactive material must be segregated from other incompatible dangerous goods so as to minimise hazards in the event of accidental leakage, spillage or other accident.",
+        "Whenever other dangerous goods are stowed with radioactive material, the most stringent segregation provisions for any of the goods apply."
+      ]
+    },
+    "section_3": {
+      "title": "TABLE 1 - UN NUMBERS AND PROPER SHIPPING NAMES",
+      "type": "table",
+      "headers": [
+        "UN NUMBER",
+        "PROPER SHIPPING NAME and description"
+      ],
+      "data": [
+        {
+          "un_number": "2908",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, EXCEPTED PACKAGE — EMPTY PACKAGING"
+        },
+        {
+          "un_number": "2909",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, EXCEPTED PACKAGE – ARTICLES MANUFACTURED FROM NATURAL URANIUM or DEPLETED URANIUM or NATURAL THORIUM"
+        },
+        {
+          "un_number": "2910",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, EXCEPTED PACKAGE – LIMITED QUANTITY OF MATERIAL"
+        },
+        {
+          "un_number": "2911",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, EXCEPTED PACKAGE – INSTRUMENTS or ARTICLES"
+        },
+        {
+          "un_number": "3507",
+          "proper_shipping_name": "URANIUM HEXAFLUORIDE, RADIOACTIVE MATERIAL, EXCEPTED PACKAGE, less than 0.1 kg per package, non-fissile or fissile-excepted*"
+        },
+        {
+          "un_number": "2912",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, LOW SPECIFIC ACTIVITY (LSA-I) non fissile or fissile-excepted*"
+        },
+        {
+          "un_number": "3321",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, LOW SPECIFIC ACTIVITY (LSA-II) non fissile or fissile-excepted*"
+        },
+        {
+          "un_number": "3322",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, LOW SPECIFIC ACTIVITY (LSA-III) non fissile or fissile-excepted*"
+        },
+        {
+          "un_number": "3324",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, LOW SPECIFIC ACTIVITY (LSA-II), FISSILE"
+        },
+        {
+          "un_number": "3325",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, LOW SPECIFIC ACTIVITY (LSA-III), FISSILE"
+        },
+        {
+          "un_number": "2913",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, SURFACE CONTAMINATED OBJECTS (SCO-I, SCO-II or SCO-III) non fissile or fissile-excepted*"
+        },
+        {
+          "un_number": "3326",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, SURFACE CONTAMINATED OBJECTS (SCO-I or SCO-II), FISSILE"
+        },
+        {
+          "un_number": "2915",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, TYPE A PACKAGE, non-special form, non fissile or fissile-excepted *"
+        },
+        {
+          "un_number": "3327",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, TYPE A PACKAGE, FISSILE non-special form"
+        },
+        {
+          "un_number": "3332",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, TYPE A PACKAGE, SPECIAL FORM, non fissile or fissile-excepted*"
+        },
+        {
+          "un_number": "3333",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, TYPE A PACKAGE, SPECIAL FORM, FISSILE"
+        },
+        {
+          "un_number": "2916",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, TYPE B(U) PACKAGE, non fissile or fissile-excepted*"
+        },
+        {
+          "un_number": "3328",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, TYPE B(U) PACKAGE, FISSILE"
+        },
+        {
+          "un_number": "2917",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, TYPE B(M) PACKAGE, non fissile or fissile-excepted*"
+        },
+        {
+          "un_number": "3329",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, TYPE B(M) PACKAGE, FISSILE"
+        },
+        {
+          "un_number": "3323",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, TYPE C PACKAGE, non fissile or fissile-excepted*"
+        },
+        {
+          "un_number": "3330",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, TYPE C PACKAGE, FISSILE"
+        },
+        {
+          "un_number": "2919",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, TRANSPORTED UNDER SPECIAL ARRANGEMENT, non fissile or fissile-excepted *"
+        },
+        {
+          "un_number": "3331",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, TRANSPORTED UNDER SPECIAL ARRANGEMENT, FISSILE"
+        },
+        {
+          "un_number": "2977",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, URANIUM HEXAFLUORIDE, FISSILE"
+        },
+        {
+          "un_number": "2978",
+          "proper_shipping_name": "RADIOACTIVE MATERIAL, URANIUM HEXAFLUORIDE non fissile or fissile-excepted*"
+        }
+      ],
+      "footnotes": [
+        "The \"PROPER SHIPPING NAME\" is found in the column \"PROPER SHIPPING NAME and description\" and is restricted to that part shown in CAPITAL LETTERS. In the cases of UN 2909, UN 2911, UN 2913 and UN 3326, where alternative proper shipping names are separated by the word \"or\", only the relevant proper shipping name shall be used.",
+        "* The term \"fissile-excepted\" refers only to material excepted under para. 417."
+      ]
+    }
+  },
+  "right_column": {
+    "section_1": {
+      "title": "IN CASE OF ACCIDENT",
+      "content": "If a RAM package has been damaged, and you suspect that the damage may allow leakage of radiation or spillage of radioactive material:",
+      "procedures": [
+        "Stay away from the package and do not touch it.",
+        "Keep other people away from it.",
+        "Notify your supervisor or manager, also inform them of any person who might have been contaminated — they will call for expert technical help if necessary.",
+        "Tell anybody who might have touched the damaged package to report to the supervisor or manager — they will arrange the necessary action.",
+        "Wash your hands thoroughly if you have touched the damaged package or objects near it and tell the supervisor or manager of your possible contamination by RAM.",
+        "Have yourself checked for possible contamination before you leave work.",
+        "Note any vehicles involved in the accident — the vehicles should remain at the accident site until cleared by the police or a competent person.",
+        "Do not eat or smoke or drink or leave until checked for possible contamination.",
+        "Advise the competent authority of details of the accident as soon as possible and follow any instructions subsequently issued."
+      ],
+      "visual_element": {
+        "type": "safety_diagram",
+        "description": "Complete radioactive material transport information document with safety procedures and contact information",
+        "position": "after_procedures",
+        "content": "Full document showing handling rules, UN numbers table, accident procedures, and Australian competent authorities contact information",
+        "image": {
+          "format": "png",
+          "alt": "Complete radioactive material transport information document",
+          "width": "auto",
+          "height": "auto",
+          "base64_file": "/workspace/image_base64.txt",
+          "usage_instructions": "Load the base64 data from the referenced file to display the complete document image"
+        }
+      }
+    },
+    "section_2": {
+      "title": "EMERGENCIES",
+      "subtitle": "AFTER HOURS CONTACT POLICE OR FIRE BRIGADE",
+      "type": "rectangular_box",
+      "emergency_contact": "Police or Fire Brigade for after-hours emergencies"
+    },
+    "section_3": {
+      "title": "TABLE 2 - AUSTRALIAN COMPETENT AUTHORITIES FOR THE TRANSPORT OF RADIOACTIVE MATERIAL BY ROAD/RAIL/INLAND WATERWAYS",
+      "type": "table",
+      "headers": [
+        "COMMONWEALTH STATE / TERRITORY",
+        "CONTACT",
+        "COMPETENT AUTHORITY"
+      ],
+      "data": [
+        {
+          "state_territory": "Commonwealth",
+          "contact": "Chief Executive Officer ARPANSA, PO Box 655, Miranda NSW 1490, Tel: (02) 9541 8333, Fax: (02) 9541 8314, Email: info@arpansa.gov.au",
+          "competent_authority": "Australian Radiation Protection and Nuclear Safety Agency (ARPANSA)"
+        },
+        {
+          "state_territory": "Australian Capital Territory",
+          "contact": "Director, Environment and Radiation Safety, Health Protection Service, ACT Health Directorate, Locked Bag 5005, Weston Creek ACT 2611, Tel: (02) 5124 9700, Fax: (02) 5124 5554, Email: hps@act.gov.au",
+          "competent_authority": "Australian Capital Territory Radiation Council"
+        },
+        {
+          "state_territory": "New South Wales",
+          "contact": "Manager Hazardous Materials, Chemicals and Radiation, Environment Protection Authority, PO Box A290, Sydney South NSW 1232, Tel: (02) 9995 5959, Fax: (02) 9995 6603, Email: radiation@epa.nsw.gov.au",
+          "competent_authority": "Environment Protection Authority"
+        },
+        {
+          "state_territory": "Northern Territory (i) for radioactive ores and concentrates",
+          "contact": "Chief Inspector – Radioactive Ores and Concentrate (Packaging and Transport) NT WorkSafe, GPO Box 1722, Darwin NT 0801, Tel: 1800 019 115, Email: ntworksafe@nt.gov.au",
+          "competent_authority": "Work Health Authority"
+        },
+        {
+          "state_territory": "Northern Territory (ii) for all other radioactive substances",
+          "contact": "Manager Radiation Protection, Radiation Protection Section, Department of Health, GPO Box 40596, Casuarina NT 0811, Tel: (08) 8922 7152, Fax: (08) 8922 7334, Email: envirohealth@nt.gov.au",
+          "competent_authority": "Department of Health"
+        },
+        {
+          "state_territory": "Queensland",
+          "contact": "Director, Radiation Health, Department of Health, PO Box 2368, Fortitude Valley BC QLD 4006, Tel: (07) 3328 9310, Fax: (07) 3328 9622, Email: radiation_health@health.qld.gov.au",
+          "competent_authority": "Department of Health"
+        },
+        {
+          "state_territory": "South Australia",
+          "contact": "Manager, Radiation Protection, Environment Protection Authority, GPO Box 2607, Adelaide SA 5001, Tel: (08) 8463 7826, Fax: (08) 8124 4671, Email: radiationprotection@epa.sa.gov.au",
+          "competent_authority": "Minister for Sustainability, Environment and Conservation"
+        },
+        {
+          "state_territory": "Tasmania",
+          "contact": "Principal Health Physicist, Radiation Protection Unit, Department of Health & Human Services, GPO Box 125, Hobart TAS 7001, Tel: (03) 6222 7256, Fax: (03) 6222 7257, Email: radiation.protection@dhhs.tas.gov.au",
+          "competent_authority": "Director of Public Health"
+        },
+        {
+          "state_territory": "Victoria",
+          "contact": "Team Leader, Radiation Safety, Department of Health, GPO Box 4541, Melbourne VIC 3001, Tel: 1300 767 469, Fax: 1300 769 274, Email: radiation.safety@health.vic.gov.au",
+          "competent_authority": "Secretary, Department of Health"
+        },
+        {
+          "state_territory": "Western Australia",
+          "contact": "Secretary, Radiological Council, Locked Bag 2006 PO, Nedlands WA 6009, Tel: (08) 9222 2000, Email: radiation.health@health.wa.gov.au",
+          "competent_authority": "Radiological Council"
+        }
+      ]
+    }
+  },
+  "key_concepts": {
+    "ram_definition": "Radioactive Material (RAM)",
+    "transport_index_limit": 50,
+    "minimum_driver_distance": "at least a metre or more",
+    "regulatory_framework": "IAEA Regulations",
+    "package_categories": [
+      "Excepted Package",
+      "Low Specific Activity (LSA-I, LSA-II, LSA-III)",
+      "Surface Contaminated Objects (SCO-I, SCO-II, SCO-III)",
+      "Type A Package",
+      "Type B(U) Package",
+      "Type B(M) Package",
+      "Type C Package"
+    ],
+    "label_categories": [
+      "Yellow Category II",
+      "Yellow Category III"
+    ]
+  },
+  "safety_principles": {
+    "time": "Keep contact time short",
+    "distance": "Maintain maximum practical distance",
+    "shielding": "Use proper packaging and storage",
+    "alara": "As Low As Reasonably Achievable radiation exposure"
+  },
+  "image_assets": {
+    "safety_diagram": {
+      "id": "radioactive_material_document",
+      "description": "Complete radioactive material transport information document",
+      "alt": "Full document with handling rules, UN numbers, accident procedures, and authority contacts",
+      "format": "png",
+      "base64_data_file": "image_base64.txt",
+      "usage": "Reference document containing all extracted information with visual safety procedures"
+    }
+  }
+}
